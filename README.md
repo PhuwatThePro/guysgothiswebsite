@@ -5,5 +5,5 @@
 |---------------------|-----------------------------------------------------|
 
 # wot is ampion official website?
-|[Ampion Official Website Explained](/)|
+|[Ampion Official Website Explained](/Ae1)|
 |--------------------------------------|
