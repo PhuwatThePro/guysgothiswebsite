@@ -15,4 +15,5 @@
 # Ampion Social Network
 guys here ampion social network me made really pro
 
-[AmpionSocial](/guysgothiswebsite/AmpionSocialNWTP)
+|[AmpionSocial](/guysgothiswebsite/ampionsocialnwtp)|
+|---------------------------------------------------|
