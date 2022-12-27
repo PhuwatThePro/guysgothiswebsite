@@ -13,7 +13,7 @@
 |------------------------------------------------------|
 
 # Ampion Social Network
-guys here ampion social network me made really pro
+guys here ampion social network haxhax like jamal guys
 
 |[AmpionSocial](/guysgothiswebsite/ampionsocialnwtp1)|
 |---------------------------------------------------|
